@@ -7,7 +7,7 @@ get points.
 
 ## Download
 
-- [Download the game (zip, 26 KB)](dice-puzzle-ascii-v1.0.0.zip)
+- [Download the game (zip, 26 KB)](https://github.com/muzinawork-creator/dice-puzzle-ascii/raw/main/dice-puzzle-ascii-v1.0.0.zip)
 
 The zip works on Windows, Mac and Linux. It needs Node.js, and nothing else.
 
