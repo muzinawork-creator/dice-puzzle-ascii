@@ -70,7 +70,7 @@ ice, stone, iron or a mix of all of them.
 
 ## Screenshots
 
-*Add a picture of the game here.*
+![Dice Puzzle Ascii in the terminal](screenshot.png)
 
 ## License
 
